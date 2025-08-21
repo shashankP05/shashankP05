@@ -35,21 +35,65 @@
 
 ---
 
-### 🌟 Featured Projects  
-- 🤖 [AI Predictive Model](https://github.com/shashank05/AI-Model) – Predictive analytics using ML models.  
-- 📈 [Data Analysis Dashboard](https://github.com/shashank05/Data-Insights) – Interactive data visualization tool.  
-- 🌐 [Portfolio Website](https://shashank05.vercel.app) – Personal site showcasing AI/ML projects.  
+## 🌟 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/shashank05/AI-Model">
+    <img src="https://img.shields.io/badge/🤖 AI Predictive Model-FF6F00?style=for-the-badge" />
+  </a>  
+  <br>
+  <sub>📌 Built ML models for predictive analytics and insights on real-world datasets.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shashank05/Data-Insights">
+    <img src="https://img.shields.io/badge/📈 Data Analysis Dashboard-00BFFF?style=for-the-badge" />
+  </a>  
+  <br>
+  <sub>📌 Designed an interactive dashboard for advanced data visualization & reporting.</sub>
+</p>
+
+<p align="center">
+  <a href="https://shashank05.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio Website-000000?style=for-the-badge&logo=vercel" />
+  </a>  
+  <br>
+  <sub>📌 Personal portfolio showcasing AI/ML projects and achievements.</sub>
+</p>
 
 ---
 
-### ⚡ Fun Corner  
-- 🎯 Currently exploring **Deep Learning & MLOps**  
-- 🧩 Love solving **algorithmic problems & debugging**  
-- 🌱 On a journey to **merge AI with real-world solutions**  
+## 📚 Research & Learning  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠 Deep Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️ MLOps-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔎 Explainable AI-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊 Data Engineering-228B22?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>Exploring architectures, deployment, interpretability, and data pipelines for AI/ML systems.</sub>
+</p>
 
 ---
 
-<p align="center">✨ “Transforming data into intelligence, and intelligence into action.” ✨</p>
+## ✨ Highlights  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆 Problem Solver-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱 Lifelong Learner-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝 Open to Collaborate-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>Driven by curiosity, continuous growth, and building impactful AI/ML solutions together.</sub>
+</p>
 
 ---
+
+<h3 align="center">💡 “Turning complex data into simple intelligence.” 💡</h3>
+
+---
+
 ⭐️ From [Shashank Poojary](https://github.com/shashank05)
