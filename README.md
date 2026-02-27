@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00bfff">Shashank Poojary</span></h1>
-<h3 align="center">💻 AI/ML Enthusiast | Computer Science Undergraduate | Data-driven Innovator</h3>
+<h3 align="center">💻 AI/ML Enthusiast | Computer Science Graduate | Data-driven Innovator</h3>
 
 <p align="center">
   <a href="mailto:shashankpoojary198@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me  
-💡 I’m a **Computer Science undergraduate** specializing in **AI/ML** with a strong foundation in **programming, data structures, and algorithms**.  
+💡 I’m a **Computer Science Graduate** specializing in **AI/ML** with a strong foundation in **programming, data structures, and algorithms**.  
 📊 Skilled in **Python, SQL, ML libraries** with experience in **predictive modeling, data analysis, and debugging**.  
 🌐 Proficient in **web technologies** and **database management**, eager to build innovative, data-driven solutions.  
 
